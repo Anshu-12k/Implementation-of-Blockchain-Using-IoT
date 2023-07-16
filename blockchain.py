@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 17 17:00:01 2023
-
-@author: Ritwik Ranjan Pathak
 """
 import hashlib
 class Block:
